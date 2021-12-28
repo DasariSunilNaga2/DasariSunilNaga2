@@ -43,3 +43,57 @@
         -input
         -text area
         -legend
+  task:
+   ####
+   - audio
+   - video
+   - canvas
+   - progress
+   - datalist
+   - meter
+   - select
+
+   ### css
+   + cascading style sheets
+   + types of css
+   - inline css
+   - internal css
+   - external css    
+
+   + syntax of css  
+
+   selector
+   {
+           css properties
+   }
+
+   ### types of selectors
+     + simple selectors
+          - by element name
+          - grouing selector (,)
+          - class selector
+          - id selector
+     + combinators
+          + descendant selector ( )
+          + child selector(>)
+          + adjacent sibling  selector (+)
+          + general sibling selector (~)
+      + pseudo class selector
+      + pseudo elemnt selector
+      + attribute selector
+
+      ### boxmodel
+         + margin
+         + border
+         + padding
+         + width
+
+
+
+
+
+
+
+   ### reference link
+   - [colour code][https://htmlcolorcodes.com/]
+   - [contrast eye checker][https://webaim.org/resources/contrastchecker/]
