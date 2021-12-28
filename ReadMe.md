@@ -88,6 +88,37 @@
          + padding
          + width
 
+         ### flex -box
+            + dispaly
+               -none
+               -inline
+               -block
+               -inline-block
+            + align-content
+            + position
+               - static
+               - relative
+               - absolute
+               - fixed
+               - sticky
+            + align-items
+            + align-self
+               ### responsive web design
+               ### flexbox
+
+               - display
+                 - flex
+                    - flex wrap
+                    - justify content
+                    - flex direction
+                    - flex flow
+
+
+         task 2:
+           - index.html
+           - register.html
+           - login.html
+
 
 
 
