@@ -119,11 +119,76 @@
            - register.html
            - login.html
 
+      ### media quries
+       - extra small devices (mobiles)
+             - max-width:600px
+       - small devices (large phones)
+             - min-width:600px
+       - medium devices(small laptops)
+              - min-width:768px
+       - large devices(large laptops or desktops)
+              - min-width:992px
+       - extra large devices()
+              - min-width:1200px
+
+  ~~~
+   @media only screen(mix-width:320px) and  (max-width:500px){
+      css code
+   }
+  ~~~
+
+  ### bootstrap4.6
+         
+         - it is a css framework
+         - 
 
 
+- module(collectionof functions nd classes)
+- package(collection of modules)
+- library(collection of packages)
+- framework(collection of library)
++ module --> package --> library --> framework
+
++ types of models
+   - offline
+   - online
+        - cdn links
+
++ background color - bg
++ text-white
++ margin in bootstrap (m-* (0-5))
+  - 0 --> 0rem
+ - 1 --> 0.25rem(4px)
+  - 2 --> 0.5rem(8px)
+  - 3 --> 1rem(16px)
+  - 4 --> 1.5rem(24px)
+  - 5 --> 3rem(48px)
++ ml-5 (margin-left)
++ m (marginin all directions)
++ mt(marg in top)
++ mb(margin bottom)
++ mr(margin right)
++ padding (padding left --> p1-5)
 
 
++ colors
+     - primary
+     - secondary
+     - info
+     - sucess
+     - warning
+     - danger
+     - light
+     - dark
+     - white
++  we can use color classes for
+          - buttons (btn btn-primary)
+          - text ( text-white)
+           - background (bg-secondary)
+           - alerts (alert aleret-primary)
 
+  + grid sysytem
+  
 
    ### reference link
    - [colour code][https://htmlcolorcodes.com/]
