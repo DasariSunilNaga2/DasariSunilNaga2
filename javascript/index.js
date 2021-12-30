@@ -11,15 +11,15 @@
 
 // console.log(name);
 // console.log(typeof(name));
-let employee={
-    name:"sunil",
-    salary:"6lpa",
-    id:"20121a1228",
-    mobile:"6309439861"
-}
-let{name,salary,...rem}=employee;
-console.log(name);
-console.log(rem);
+// let employee={
+//     name:"sunil",
+//     salary:"6lpa",
+//     id:"20121a1228",
+//     mobile:"6309439861"
+// }
+// let{name,salary,...rem}=employee;
+// console.log(name);
+// console.log(rem);
 // console.log(employee);
 
 // let employee=["sunil","harshini","pravallika"];
@@ -72,3 +72,52 @@ console.log(rem);
 // console.log(rem);
 
 
+
+// let si=function(x,y){
+//     return x+y
+// }
+// console.log(si(3,7));
+
+
+// let si= (x,y) => {
+//     return x*y
+// }
+// console.log(si(2,3))
+
+
+
+// setTimeout(function(){
+//     console.log("welcome")
+// },300)
+
+
+let employee=["sunil","harshini","pravallika"]
+// for(let i=0;i<=employee.length;i++)
+// {
+//     console.log(employee[i])
+// }
+// for(let item in object) {
+    
+// }
+
+// for(let i in employee){
+//     console.log(i)
+// }
+
+
+// for(let i of object) {
+//     console.log(i)
+// }
+
+
+// employee.forEach(i => {
+//     console.log(i)
+// });
+
+
+
+let results=employee.map((Element,index)=>{
+    return Element+ "s" + index
+})
+console.log(employee)
+console.log(results)

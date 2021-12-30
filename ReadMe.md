@@ -221,6 +221,94 @@
                name:"sunil"
             }
       - arrays   
+
+      ### alerts
+         + to generate notifications
+                  - alert
+                  - prompt (to take input from the user)
+                  - confirm
+       + console statements
+          - console.log()
+          - console.info()
+          - console.error()
+          - console.warn() 
+
+
+      + spread operator
+          to change array elements from one arrayto another
+
+      + spread operator
+          ...variable name     
+      + rest parameter
+          - to handle function parametrs
+
+          ...parameter
+
+      + destructuring of objects nd array
+
+      ### functions
+          - function with function name
+
+          ....
+             function demo(){
+                return statement
+             }
+             demo()
+
+
+         ...
+         anonymous function
+
+           let demo=function(x,y){
+                      return x+y
+           }
+                 arrow function
+
+                 list demo= (x,y) => {
+                    return x*y
+
+                 }
+                 console.log(demo(x,y))
+
+### dom
+   - document object model
+   - document
+   - history
+   - window
+   - navigator
+   + dom methods
+    - getelement by id
+    - get elements by class name
+    - innertext
+    - text content
+    - append
+    - append child
+    - inner html
+    - set attribute
+    - getb rootnode
+    - src
+    - style
+    - class list
+
+
+    #### json
+        + javascript object notation
+        + to exchange information betwwen application and server
+        ...
+        {
+          "name":"sunil dasari"
+          "salary":"6 lpa"
+          "designation":"mern developer"
+          "mobile":6309439861
+        }
+        ...
+
+        + ajax call or promises (fetch api) or axios
+
+        
+
+
+           
   
 
    ### reference link

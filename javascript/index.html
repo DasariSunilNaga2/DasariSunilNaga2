@@ -10,6 +10,12 @@
         </script>
 </head>
 <body>
+
+     <div class="main">
+         <div class="child">
+        <!-- <h1>heading</h1> -->
+         </div>
+    </div> 
     <script>
         // console.log("welcome")
         function demo(){
@@ -22,7 +28,13 @@
             console.log(name);
         }
         console.log(demo());
-
+        var main=document.querySelector(".main")
+        var child=document.querySelector(".child")
+        var heading=document.createElement('h1');
+        heading.textContent="welcome";
+        child.appendChild(heading);
+        main.appendChild(child);
+        
     </script>
     
     
