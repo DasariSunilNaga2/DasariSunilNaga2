@@ -188,6 +188,39 @@
            - alerts (alert aleret-primary)
 
   + grid sysytem
+   
+   
+
+   ### javascript
+
+   + in 1995 'brenden eich' introduced javascript (es-262)
+   + javascript is loosely toupled nd dynamic language
+   + ecma-script (es-6)
+      - let & const
+      - map()
+      - arrow function
+      - classes
+    + it is a text based programming language and we can ran
+      in client side nd server side for dynamic web applications  
+   + variables
+      - var,let,const
+      - scope
+      - redefine- let,var
+      - redeclare
+
+   + datatypes
+      - number
+      - bigint(2^53-1)
+      - string
+      - boolean
+      - undefine
+      - null
+      - object
+            
+            {
+               name:"sunil"
+            }
+      - arrays   
   
 
    ### reference link
