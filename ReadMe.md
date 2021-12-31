@@ -305,6 +305,50 @@
 
         + ajax call or promises (fetch api) or axios
 
+
+
+           ### reactjs
+
+              + it is a library
+              + it follows component based architecture
+                   - function component
+                   - class component
+                   - pure component
+                   - higher order component
+              + it provides virtual dom
+              + it provides jsx (javascript and xml)
+              + unidirectional data flow
+              + single page applications
+
+
+      + environment setup
+           - download nodejs [https://nodejs.org/en/download/]
+           - download vsc [https://code.visualstudio.com/download]
+           - install nodejs and check versions of node nd npm
+              - node -v
+              - npm -v
+
+            - webpack and babel
+            - create-react-app
+               - npm install create-react-app
+                     - creat-react-app projectname
+            - npx create-react-app appname;
+
+
+            + index page
+              - nav.js
+              - body.js
+              - footer.js
+            + home.js
+                - nav
+                - body
+                - footer
+            + login.js
+            + register
+            + about
+            + contact
+               - 
+
         
 
 
@@ -314,3 +358,4 @@
    ### reference link
    - [colour code][https://htmlcolorcodes.com/]
    - [contrast eye checker][https://webaim.org/resources/contrastchecker/]
+   - [nodejs][https://nodejs.org/en/download/]
