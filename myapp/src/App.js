@@ -7,6 +7,7 @@ function App() {
       <div>
        <h1>welcome</h1>
        <ClassComponent/>
+       <input type="text" />
 
        </div>
   );

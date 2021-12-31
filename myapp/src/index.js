@@ -4,12 +4,20 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Functional from './components/Functional';
+import UnionBank from './components/UnionBank';
+import StateinClassComponent from './components/StateinClassComponent';
+import StatesInFunctionalComponent from './components/StatesInFunctionalComponent';
 
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    
     <Functional/>
+    <UnionBank/>
+    <StateinClassComponent />
+    <StatesInFunctionalComponent />
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
